@@ -1,37 +1,15 @@
-.navBar {
-  background:red;
-  display: flex;
-}
-.navBar__container {
-  display: flex;
-}
 body {
     background: lightblue;
   }
 h1 {
-    color: brown;
+    background-color: lightblue;
     margin: auto;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    color: brown;
 }
-h2 {
-  color: brown;
-  margin: auto;
-  text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-button {
-  color: red;
-  text-align: center;
-  margin: auto;
-}
-p {
-  text-align: center;
-  font-size: x-large;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  margin: auto;
-}
-div {
+img {
+  background-color: white;
   text-align: center;
 }
 script {
@@ -41,4 +19,17 @@ li {
   color: violet;
   
 }
+h2 {
+  color: brown;
+  text-align: center;
+}
+div {
+  color: brown;
+  text-align: center;
+}
+p {
+  color: brown;
+  text-align: center;
+}
+
 
